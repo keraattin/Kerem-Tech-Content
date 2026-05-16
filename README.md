@@ -45,4 +45,6 @@ freely, credit the source, no commercial reuse without permission.
 
 ## Follow
 
-- Instagram: [@kerem.tech](https://www.instagram.com/kerem.tech) · [@keraattin](https://www.instagram.com/keraattin)
+- Instagram: [@kerem.tech](https://www.instagram.com/kerem.tech) · 
+- Twitter [@keraattin](https://x.com/keraattin)
+- YouTube [@keraattin (Kerem Tech)](https://www.youtube.com/@keraattin)
