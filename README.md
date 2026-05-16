@@ -12,7 +12,7 @@ same content in a format you can save, search, print, or reference offline.
 |---|-------|-------|-----|-----------|
 | 1 | Harden your Docker containers | Container security | [PDF](harden-your-docker-containers/docker_container_security.pdf) | [post](https://www.instagram.com/p/DYW46WtjO-h) |
 | 2 | Red team your LLM | LLM security (garak) | [PDF](red-team-your-llm/garak_carousel.pdf) | [post](https://www.instagram.com/p/DYUR1WBDI-N) |
-| 3 | NMAP — The ultimate guide | Network reconnaissance | [PDF](nmap-ultimate-guide/Nmap_Ultimate_Guide.pdf) | [post](https://www.instagram.com/p/DYRjv3CDHA6) |
+| 3 | NMAP - The ultimate guide | Network reconnaissance | [PDF](nmap-ultimate-guide/Nmap_Ultimate_Guide.pdf) | [post](https://www.instagram.com/p/DYRjv3CDHA6) |
 | 4 | The complete Linux filesystem guide | Linux fundamentals | [PDF](linux-filesystem-guide/linux_filesystem_guide.pdf) | [post](https://www.instagram.com/p/DYMTLojjM8n) |
 | 5 | HTTP Security Headers | Web application security | [PDF](http-security-headers/HTTP_Security_Headers.pdf) | [post](https://www.instagram.com/p/DYO8-8ajJb8) |
 
@@ -45,6 +45,6 @@ freely, credit the source, no commercial reuse without permission.
 
 ## Follow
 
-- Instagram: [@kerem.tech](https://www.instagram.com/kerem.tech) · 
+- Instagram: [@kerem.tech](https://www.instagram.com/kerem.tech)
 - Twitter [@keraattin](https://x.com/keraattin)
 - YouTube [@keraattin (Kerem Tech)](https://www.youtube.com/@keraattin)
