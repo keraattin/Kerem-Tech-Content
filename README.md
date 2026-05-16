@@ -1,7 +1,7 @@
 # Kerem Tech Content
 
 PDF versions of cybersecurity & DevSecOps content I publish on Instagram
-[@kerem.tech](https://www.instagram.com/kerem.tech) (with [@keraattin](https://www.instagram.com/keraattin)).
+as [@kerem.tech](https://www.instagram.com/kerem.tech).
 
 The Instagram carousels are designed for a quick scroll. The PDFs here are the
 same content in a format you can save, search, print, or reference offline.
@@ -33,9 +33,6 @@ Each folder also has a short README with the topic breakdown.
 
 Folder names follow the hook from each post, in kebab-case.
 
-## Contributing
-
-Spotted a typo, an outdated flag, or a missing reference? Open an issue or PR.
 
 ## License
 
