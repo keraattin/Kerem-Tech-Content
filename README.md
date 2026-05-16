@@ -1,6 +1,6 @@
 # Kerem Tech Content
 
-PDF versions of cybersecurity & DevSecOps content I publish on Instagram
+PDF versions of Cybersecurity content I publish on Instagram
 as [@kerem.tech](https://www.instagram.com/kerem.tech).
 
 The Instagram carousels are designed for a quick scroll. The PDFs here are the
