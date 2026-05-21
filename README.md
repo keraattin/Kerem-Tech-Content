@@ -10,12 +10,13 @@ same content in a format you can save, search, print, or reference offline.
 
 | # | Title | Topic | PDF | Instagram |
 |---|-------|-------|-----|-----------|
-| 1 | The ultimate Wireshark guide | Packet analysis | [PDF](wireshark-ultimate-guide/ultimate_wireshark_guide.pdf) | [post](https://www.instagram.com/p/DYZlBM0jJHG) |
-| 2 | Harden your Docker containers | Container security | [PDF](harden-your-docker-containers/docker_container_security.pdf) | [post](https://www.instagram.com/p/DYW46WtjO-h) |
-| 3 | Red team your LLM | LLM security (garak) | [PDF](red-team-your-llm/garak_carousel.pdf) | [post](https://www.instagram.com/p/DYUR1WBDI-N) |
-| 4 | NMAP - The ultimate guide | Network reconnaissance | [PDF](nmap-ultimate-guide/Nmap_Ultimate_Guide.pdf) | [post](https://www.instagram.com/p/DYRjv3CDHA6) |
-| 5 | The complete Linux filesystem guide | Linux fundamentals | [PDF](linux-filesystem-guide/linux_filesystem_guide.pdf) | [post](https://www.instagram.com/p/DYMTLojjM8n) |
-| 6 | HTTP Security Headers | Web application security | [PDF](http-security-headers/HTTP_Security_Headers.pdf) | [post](https://www.instagram.com/p/DYO8-8ajJb8) |
+| 1 | Network ports you need to memorize | Networking fundamentals | [PDF](network-ports-for-memorize/network_ports_for_memorize.pdf) | [post](https://www.instagram.com/p/DYjhWeWjIJw) |
+| 2 | The ultimate Wireshark guide | Packet analysis | [PDF](wireshark-ultimate-guide/ultimate_wireshark_guide.pdf) | [post](https://www.instagram.com/p/DYZlBM0jJHG) |
+| 3 | Harden your Docker containers | Container security | [PDF](harden-your-docker-containers/docker_container_security.pdf) | [post](https://www.instagram.com/p/DYW46WtjO-h) |
+| 4 | Red team your LLM | LLM security (garak) | [PDF](red-team-your-llm/garak_carousel.pdf) | [post](https://www.instagram.com/p/DYUR1WBDI-N) |
+| 5 | NMAP - The ultimate guide | Network reconnaissance | [PDF](nmap-ultimate-guide/Nmap_Ultimate_Guide.pdf) | [post](https://www.instagram.com/p/DYRjv3CDHA6) |
+| 6 | The complete Linux filesystem guide | Linux fundamentals | [PDF](linux-filesystem-guide/linux_filesystem_guide.pdf) | [post](https://www.instagram.com/p/DYMTLojjM8n) |
+| 7 | HTTP Security Headers | Web application security | [PDF](http-security-headers/HTTP_Security_Headers.pdf) | [post](https://www.instagram.com/p/DYO8-8ajJb8) |
 
 Each folder also has a short README with the topic breakdown.
 
@@ -23,6 +24,7 @@ Each folder also has a short README with the topic breakdown.
 
 ```
 .
+├── network-ports-for-memorize/
 ├── wireshark-ultimate-guide/
 ├── harden-your-docker-containers/
 ├── red-team-your-llm/
