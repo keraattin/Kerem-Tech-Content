@@ -10,16 +10,17 @@ same content in a format you can save, search, print, or reference offline.
 
 | # | Title | Topic | PDF | Instagram |
 |---|-------|-------|-----|-----------|
-| 1 | Network protocols explained | Networking fundamentals | [PDF](network-protocols-explained/Network-Protocols-Explained.pdf) | [post](https://www.instagram.com/p/DZ9ufRTDGBL) |
-| 2 | Linux privilege escalation | Offensive security | [PDF](linux-priv-esc/linux-privilege-escalation.pdf) | [post](https://www.instagram.com/p/DZcJQPZjFmn) |
-| 3 | HTTP Anatomy | Web fundamentals | [PDF](http-anatomy/http_anatomy.pdf) | [post](https://www.instagram.com/p/DYoqkE3DGoU) |
-| 4 | Network ports you need to memorize | Networking fundamentals | [PDF](network-ports-for-memorize/network_ports_for_memorize.pdf) | [post](https://www.instagram.com/p/DYjhWeWjIJw) |
-| 5 | The ultimate Wireshark guide | Packet analysis | [PDF](wireshark-ultimate-guide/ultimate_wireshark_guide.pdf) | [post](https://www.instagram.com/p/DYZlBM0jJHG) |
-| 6 | Harden your Docker containers | Container security | [PDF](harden-your-docker-containers/docker_container_security.pdf) | [post](https://www.instagram.com/p/DYW46WtjO-h) |
-| 7 | Red team your LLM | LLM security (garak) | [PDF](red-team-your-llm/garak_carousel.pdf) | [post](https://www.instagram.com/p/DYUR1WBDI-N) |
-| 8 | NMAP - The ultimate guide | Network reconnaissance | [PDF](nmap-ultimate-guide/Nmap_Ultimate_Guide.pdf) | [post](https://www.instagram.com/p/DYRjv3CDHA6) |
-| 9 | The complete Linux filesystem guide | Linux fundamentals | [PDF](linux-filesystem-guide/linux_filesystem_guide.pdf) | [post](https://www.instagram.com/p/DYMTLojjM8n) |
-| 10 | HTTP Security Headers | Web application security | [PDF](http-security-headers/HTTP_Security_Headers.pdf) | [post](https://www.instagram.com/p/DYO8-8ajJb8) |
+| 1 | Bug bounty methodology | Offensive security | [PDF](bug-bounty-methodology/Bug-Bounty-Methodology.pdf) | [post](https://www.instagram.com/p/DaAJXJGDFwI) |
+| 2 | Network protocols explained | Networking fundamentals | [PDF](network-protocols-explained/Network-Protocols-Explained.pdf) | [post](https://www.instagram.com/p/DZ9ufRTDGBL) |
+| 3 | Linux privilege escalation | Offensive security | [PDF](linux-priv-esc/linux-privilege-escalation.pdf) | [post](https://www.instagram.com/p/DZcJQPZjFmn) |
+| 4 | HTTP Anatomy | Web fundamentals | [PDF](http-anatomy/http_anatomy.pdf) | [post](https://www.instagram.com/p/DYoqkE3DGoU) |
+| 5 | Network ports you need to memorize | Networking fundamentals | [PDF](network-ports-for-memorize/network_ports_for_memorize.pdf) | [post](https://www.instagram.com/p/DYjhWeWjIJw) |
+| 6 | The ultimate Wireshark guide | Packet analysis | [PDF](wireshark-ultimate-guide/ultimate_wireshark_guide.pdf) | [post](https://www.instagram.com/p/DYZlBM0jJHG) |
+| 7 | Harden your Docker containers | Container security | [PDF](harden-your-docker-containers/docker_container_security.pdf) | [post](https://www.instagram.com/p/DYW46WtjO-h) |
+| 8 | Red team your LLM | LLM security (garak) | [PDF](red-team-your-llm/garak_carousel.pdf) | [post](https://www.instagram.com/p/DYUR1WBDI-N) |
+| 9 | NMAP - The ultimate guide | Network reconnaissance | [PDF](nmap-ultimate-guide/Nmap_Ultimate_Guide.pdf) | [post](https://www.instagram.com/p/DYRjv3CDHA6) |
+| 10 | The complete Linux filesystem guide | Linux fundamentals | [PDF](linux-filesystem-guide/linux_filesystem_guide.pdf) | [post](https://www.instagram.com/p/DYMTLojjM8n) |
+| 11 | HTTP Security Headers | Web application security | [PDF](http-security-headers/HTTP_Security_Headers.pdf) | [post](https://www.instagram.com/p/DYO8-8ajJb8) |
 
 Each folder also has a short README with the topic breakdown.
 
@@ -27,6 +28,7 @@ Each folder also has a short README with the topic breakdown.
 
 ```
 .
+├── bug-bounty-methodology/
 ├── network-protocols-explained/
 ├── linux-priv-esc/
 ├── http-anatomy/
